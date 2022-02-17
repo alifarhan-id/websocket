@@ -1,0 +1,24 @@
+{
+  "name": "websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alifarhan1230/websocket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alifarhan1230/websocket/issues"
+  },
+  "homepage": "https://github.com/alifarhan1230/websocket#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "ws": "^8.5.0"
+  }
+}
